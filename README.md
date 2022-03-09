@@ -1,2 +1,2 @@
 # Course
-Introduction to Github (Week3
+Introduction to Github (Week3)
